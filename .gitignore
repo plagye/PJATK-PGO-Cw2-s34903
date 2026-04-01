@@ -4,7 +4,8 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea
-
+mini-biblioteka.iml
+idea/
 ### Eclipse ###
 .apt_generated
 .classpath
