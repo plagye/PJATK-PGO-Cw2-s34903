@@ -33,4 +33,12 @@ public class Ksiazka {
             System.out.println("Książka \"" + tytul + "\" nie była wypożyczona.");
         }
     }
+
+    boolean isDostepna() {
+        return dostepna;
+    }
+
+    String getTytul() {
+        return tytul;
+    }
 }
